@@ -137,8 +137,8 @@ export default function PrivacyPolicyOnline() {
               Why Privacy Matters
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              In our application, protecting user data isn't just about
-              compliance—it's about building trust
+              In our application, protecting user data isnt just about
+              compliance—its about building trust
             </p>
           </div>
 
@@ -245,7 +245,7 @@ export default function PrivacyPolicyOnline() {
             Have Questions?
           </h2>
           <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
-            Contact us if you have any questions about our application's privacy
+            Contact us if you have any questions about our applications privacy
             policy
           </p>
           <Button
@@ -295,7 +295,10 @@ export default function PrivacyPolicyOnline() {
             </div>
           </div>
           <div className="border-t border-green-700 mt-8 pt-8 text-center text-sm text-green-200">
-            <p>&copy; 2025 Our Application. All rights reserved.</p>
+            <p>
+              Please read our Privacy Policy and our Terms of Service. Privacy
+              Policy Online &copy; 2025
+            </p>
           </div>
         </div>
       </footer>
